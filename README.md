@@ -2,6 +2,7 @@
 
 - 🌱 Sou Bióloga formada
 - 🖥️ Atualmente sou estudante de Desenvolvimento Web Full stack na **Trybe** 
+- 💛 Nas horas vagas eu amo ler, jogar e tomar chimarrão 🧉🧉
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paloma-JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
