@@ -4,6 +4,12 @@
 - 🖥️ Atualmente sou estudante de Desenvolvimento Web Full stack na **Trybe** 
 - 💛 Nas horas vagas eu amo ler, jogar e tomar chimarrão 🧉🧉
 
+<div align="center">
+  <a href="https://github.com/PalomaWink">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=palomawink&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomawink&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Paloma-JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Paloma-Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -21,6 +27,3 @@
   <a href="https://www.linkedin.com/in/paloma-wink" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/paloma.wink/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-
-##
-![ cobra gif ](https://github.com/PalomaWink/PalomaWink/blob/output/github-contribution-grid-snake.svg)
