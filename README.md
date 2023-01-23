@@ -1,8 +1,8 @@
-### Oie, Sou a Paloma! 🌻✨
+### Hi there, I'm Paloma! 🌻✨
 
-- 🌱 Sou Bióloga formada
-- 🖥️ Atualmente sou estudante de Desenvolvimento Web Full stack na **Trybe** 
-- 💛 Nas horas vagas eu amo ler, jogar e tomar chimarrão 🧉🧉
+- 🌱 I'm Biologist 🔬 🧬 🧫
+- 🖥️ I'm currently a web development student Full Stack at **Trybe** 
+- 💛 in my spare time I love to read, play and drink chimarrão 🧉🧉
 
 <div align="center">
   <a href="https://github.com/PalomaWink">
