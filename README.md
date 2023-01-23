@@ -1,8 +1,8 @@
 ### Hi there, I'm Paloma! 🌻✨
 
-- 🌱 I'm Biologist 🔬 🧬 🧫
+- 🌱 I'm a Biologist 🔬 🧬 🧫
 - 🖥️ I'm currently a web development student Full Stack at **Trybe** 
-- 💛 in my spare time I love to read, play and drink chimarrão 🧉🧉
+- 💛 In my spare time I love to read, play and drink chimarrão 🧉🧉
 
 <div align="center">
   <a href="https://github.com/PalomaWink">
