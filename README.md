@@ -2,7 +2,7 @@
 
 - 🌱 I'm a Biologist 🔬 🧬 🧫
 - 🖥️ I'm currently a Full Stack Web Development student at **Trybe** 
-- 💛 In my spare time I love to read, play and drink chimarrão 🧉🧉
+- 💛 In my spare time I love to read, play games and drink chimarrão 🧉🧉
 
 <div align="center">
   <a href="https://github.com/PalomaWink">
@@ -10,21 +10,44 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomawink&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Paloma-JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Paloma-Redux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img align="center" alt="Paloma-React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Paloma-HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Paloma-CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Paloma-SASS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Paloma-Tailwind" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Paloma-Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Paloma-NodeJs" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Paloma-Jest" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="Paloma-Ubuntu" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
-</div>
+  ## Hard Skills
+  
+  - Programming language 💻
+  <div style="display: inline_block">
+    <img align="center" alt="Paloma-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </div><br>
+  
+  - Design 🖌️
+  <div style="display: inline_block">
+    <img align="center" alt="Paloma-SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+    <img align="center" alt="Paloma-Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img align="center" alt="Paloma-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  </div><br>
+  
+  - Front-end 💅
+  <div style="display: inline_block">
+    <img align="center" alt="Paloma-Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+    <img align="center" alt="Paloma-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="Paloma-Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  </div><br>
+  
+  - Back-end 👩‍💻
+  <div style="display: inline_block">
+    <img align="center" alt="Paloma-NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  </div><br>
+  
+  - Tests 👷‍♀️
+  <div style="display: inline_block">
+    <img align="center" alt="Paloma-Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+  </div><br>
+  
+  - OS 🖥️
+  <div style="display: inline_block">
+    <img align="center" alt="Paloma-Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img align="center" alt="Paloma-Linux" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  </div><br>
 
-##
+## Social Media
 <div>
   <a href="https://www.linkedin.com/in/paloma-wink" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/paloma.wink/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
