@@ -1,7 +1,7 @@
 ### Hi there, I'm Paloma! 🌻✨
 
 - 🌱 I'm a Biologist 🔬 🧬 🧫
-- 🖥️ I'm currently a web development student Full Stack at **Trybe** 
+- 🖥️ I'm currently a Full Stack Web Development student at **Trybe** 
 - 💛 In my spare time I love to read, play and drink chimarrão 🧉🧉
 
 <div align="center">
