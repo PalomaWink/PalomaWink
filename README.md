@@ -40,6 +40,7 @@
   - Tests 👷‍♀️
   <div style="display: inline_block">
     <img align="center" alt="Paloma-Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+    <img align="center" alt="Paloma-RTL" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">
   </div><br>
   
   - OS 🖥️
