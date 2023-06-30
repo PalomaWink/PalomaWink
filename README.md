@@ -38,6 +38,8 @@ Welcome to my GitHub repository! I'm a biologist who decided to pursue my passio
   - Back-end 👩‍💻
   <div style="display: inline_block">
     <img align="center" alt="Paloma-NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <img align="center" alt="Paloma-Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+    <img align="center" alt="Paloma-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   </div><br>
   
   - Tests 👷‍♀️
