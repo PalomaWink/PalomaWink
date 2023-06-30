@@ -1,7 +1,10 @@
 ### Hi there, I'm Paloma! 🌻✨
 
-- 🌱 I'm a Biologist 🔬 🧬 🧫
-- 🖥️ I'm currently a Full Stack Web Development student at **Trybe** 
+Welcome to my GitHub repository! I'm a biologist who decided to pursue my passion for technology. Here you'll find projects and studies related to my career transition into the development field.
+
+- 🌱 A biologist by training who embarked on a career transition into the technology field. 🔬 🧬 🧫
+- 🖥️ Driven by challenges, constant learning, and personal growth.
+- :woman_technologist: Student at **Trybe** since January 2023, currently in the back-end module. 
 - 💛 In my spare time I love to read, play games and drink chimarrão 🧉🧉
 
 <div align="center">
