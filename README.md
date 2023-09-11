@@ -7,11 +7,8 @@ Welcome to my GitHub repository! I'm a biologist who decided to pursue my passio
 - :woman_technologist: Student at **Trybe** since January 2023, currently in the back-end module. 
 - 💛 In my spare time I love to read, play games and drink chimarrão 🧉🧉
 
-<div align="center">
-  <a href="https://github.com/PalomaWink">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=palomawink&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomawink&layout=compact&langs_count=7&theme=radical"/>
-</div>
+#### Contact:
+**email:** paloma.wink@hotmail.com
 
   ## Hard Skills
   
@@ -59,3 +56,10 @@ Welcome to my GitHub repository! I'm a biologist who decided to pursue my passio
   <a href="https://www.linkedin.com/in/paloma-wink" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/paloma.wink/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
+
+<div align="center">
+  <a href="https://github.com/PalomaWink">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=palomawink&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomawink&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
