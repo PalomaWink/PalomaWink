@@ -1,4 +1,5 @@
 <img width=100% src='https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,1&height=150&section=header%20render&fontSize=90' />
+
 ### Hi there, I'm Paloma! 🌻✨
 
 Welcome to my GitHub repository! I'm a biologist who decided to pursue my passion for technology. Here you'll find projects and studies related to my career transition into the development field.
