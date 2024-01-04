@@ -1,20 +1,20 @@
 <img width=100% src='https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,1&height=150&section=header%20render&fontSize=90' />
 
-### Hi there, I'm Paloma! 🌻✨
+### Olá, Eu sou a Paloma! 🌻✨
 
-Welcome to my GitHub repository! I'm a biologist who decided to pursue my passion for technology. Here you'll find projects and studies related to my career transition into the development field.
+Seja muito bem-vindo ao meu repositório do GitHub! Sou uma bióloga que decidiu seguir sua paixão pela tecnologia. Aqui você encontrará projetos e estudos relacionados à minha transição de carreira para a área de desenvolvimento.
 
-- 🌱 A biologist by training who embarked on a career transition into the technology field. 🔬 🧬 🧫
-- 🖥️ Driven by challenges, constant learning, and personal growth.
-- :woman_technologist: Student at **Trybe** since January 2023, currently in the back-end module. 
-- 💛 In my spare time I love to read, play games and drink chimarrão 🧉🧉
+- 🌱 Bióloga de formação que embarcou em uma transição de carreira para a área de tecnologia. 🔬 🧬 🧫
+- 🖥️ Movidos por desafios, aprendizado constante e crescimento pessoal.
+- :woman_technologist: Estudante na **Trybe** desde janeiro de 2023, atualmente no último módulo que é a Eletiva. 
+- 💛 Nas horas vagas adoro desenhar e pintar aquarela, malhar e tomar chimarrão 🧉🧉
 
 #### Contact:
 **email:** paloma.wink@hotmail.com
 
   ## Hard Skills
   
-  - Programming language 💻
+  - Linguagens de programação 💻
   <div style="display: inline_block">
     <img align="center" alt="Paloma-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="Paloma-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -53,7 +53,7 @@ Welcome to my GitHub repository! I'm a biologist who decided to pursue my passio
     <img align="center" alt="Paloma-Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </div><br>
   
-  - Tests 👷‍♀️
+  - Testes 👷‍♀️
   <div style="display: inline_block">
     <img align="center" alt="Paloma-Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
     <img align="center" alt="Paloma-RTL" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">
@@ -68,7 +68,7 @@ Welcome to my GitHub repository! I'm a biologist who decided to pursue my passio
     <img align="center" alt="Paloma-Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </div><br>
 
-## Social Media
+## Redes Sociais
 <div>
   <a href="https://www.linkedin.com/in/paloma-wink" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/paloma.wink/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
